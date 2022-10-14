@@ -10,7 +10,7 @@ public class App {
 		Controller controller = new Controller();
 		
 		while(running) {
-			System.out.println("Welcome to Jeteloka");
+			System.out.println("Welcome to JeTeLoka");
 			System.out.println("1. Rent a Place");
 			System.out.println("2. View Transactions");
 			System.out.println("3. Delete Transactions");
